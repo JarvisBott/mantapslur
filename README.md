@@ -14,8 +14,8 @@
     
 ## Deploy 🥺
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dark-Knight-Hiruwa/YOUTUBE-DOWNLOADER-TELEGRAM-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JarvisBott/mantapslur)
 
 ## DEVELOPER
 
-- Developer : Hiruwa
+- Developer : AdhanMod
