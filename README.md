@@ -1,4 +1,4 @@
-#  ❰🍁🔱  T Rex BOT  🔱🍁❱ Telegram
+#  ❰🍁 AdhanMod 🍁❱ Telegram
 ## Prerequisite
     ffmpeg
   
